@@ -11,8 +11,8 @@ def get_words():
         word=input("Enter some words: \n")
         if word == "":
             break
-        #words=[]
         words.insert(0,word)
+
 get_words()
 print ("You are done!\n[words]")
 print (random.choice(words))
