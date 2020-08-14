@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-#List comprehension
+#List comprehension example
 
 input_list = [1,2,3,4,4,5,6,7,7]
 output_list=[]
