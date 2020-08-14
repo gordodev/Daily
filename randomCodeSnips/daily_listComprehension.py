@@ -17,4 +17,4 @@ list_using_comp = [var for var in input_list if var % 2 == 0 ]
 
 #list_using_comp = [var for var in input_list if var % 2 == 0 if var not in output_list]
 
-print ("We are here", list_using_comp)
+print ("Here is your new list: ", list_using_comp)
