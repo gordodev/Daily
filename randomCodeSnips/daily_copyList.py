@@ -4,7 +4,7 @@
 
 myList=["car","ball","keys"]
 
-print ("list is:",myList)
+print ("list is:",myList,"\n")
 
 copyList=myList.copy()
 
